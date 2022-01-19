@@ -125,6 +125,8 @@ https://trailblazer.me/id/karensoto02
  9. **Case:** Un caso es una descripción detallada de los problemas de un cliente.
  10. **Article:**  Los articulos  capturan información sobre los productos y servicios de tu empresa que deseas que estén disponibles en tu base de conocimientos.
 
+(https://github.com/karenS02/ProContacto/blob/main/img/Diagrama%20objetos%20salesforce.drawio.png)
+
 
 ## Ejercicio 6: Trigger
 
