@@ -93,12 +93,14 @@ Para definir el tipo de contenido de un request o response, ya sea json, xml, ht
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
 (https://github.com/karenS02/ProContacto/tree/main/img/RequestGET.jpg?raw=true)
+
 Request POST a la URL anterior, y con body:
 {
 "name":"Tu nombre",
 "email":tunombre.tuapellido@procontacto.com.mx
 }
 (https://github.com/karenS02/ProContacto/tree/main/img/RequestPOST.jpg?raw=true)
+
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
 (https://github.com/karenS02/ProContacto/tree/main/img/RequestGET2.jpg?raw=true)
