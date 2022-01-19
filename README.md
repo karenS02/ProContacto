@@ -98,10 +98,10 @@ Request POST a la URL anterior, y con body:
 "name":"Tu nombre",
 "email":tunombre.tuapellido@procontacto.com.mx
 }
-(https://github.com/karenS02/ProContacto/tree/main/img/REQUESTPOST.jpg?raw=true)
+(https://github.com/karenS02/ProContacto/tree/main/img/RequestPOST.jpg?raw=true)
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
-(https://github.com/karenS02/ProContacto/tree/main/img/REQUESTGET2.jpg?raw=true)
+(https://github.com/karenS02/ProContacto/tree/main/img/RequestGET2.jpg?raw=true)
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 En la primera petición GET aún no eran visibles los datos enviados en la petición POST, si no hasta hacer un GET nuevamente.
