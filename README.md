@@ -71,7 +71,7 @@ En JSON existen dos tipos de elementos:
     
   XML,  representa información estructurada en la web (todos documentos), de modo que esta información pueda ser almacenada, transmitida, procesada, visualizada e impresa, por muy diversos tipos de aplicaciones y dispositivos.
  Un documento XML está formado por  **datos de caracteres**  y  **marcado**, el marcado lo forman las etiquetas:
- ![enter image description here](https://lh3.googleusercontent.com/3E2JJN06zjYSxq77mMzbA-LUTrKr416l8mpNoFgRLSTQnlH5kGu8U6aCvI1OGcZqmTuvL4Ox1pc5z53mF6DMN67dtZVOZw_Xu7m3gAVuqDvNQmrrBg0qtXVDe69BO0ER07wdgXzYiTk3slsdFT2zKFL5dqxrlfT3MLB9kJ52R5AusIJNqrsnz9bQnmepJW-FB-S-1S4Q_MOqzPPQ5KTJOdLJNltTUqbin3BXDXQtSurU7eJlUJu3zoGsUQ8uAMKaBb9XsRy5sk6-3wf8NmkGAorSFTKlOufLG_hzV5QmLJ3JcYYuj8t_4Fu-W02Yqx2TVVoXFEmQBywvju0t6FD8Jq8f751AxwekTgsf3PnKemwH-GXEr5JYur-JLaNuEWcYE86xNEa59X9Lzl_kPKQKiMQuzJIL07w8yMcTWNMxC8K5IGSw_6UswK1vYr0F4OVETZb_acxOGj8-jPDbFIiIXdiwnE67zOIjZsKPJYs02qRjmJ5b7JCSMW8hXgqQbV6X2ttl-_KMCaCVCMxCC7RcPyNuCiYKcVyuyECka_j-7LbQd7JmOajHkn_kctaBabpESggcHcwwNONbx8hxphi9GNL0mVIAlYw55QvV-EiOFpPK8I7XxyuG74FR9ONjzmGWogGFuBHpa54rvpyPXnrWLNl4csS7UQ_wX227ihe7ExVt0KKsZG_7IdgcoLzaWF23j3EiKbrbfAYQm8JqwP2q5gc=w432-h115-no?authuser=3)
+ (https://github.com/karenS02/ProContacto/tree/main/img/xml.jpg?raw=true)
 
 **Explicar brevemente el estándar SOAP.**
 
@@ -92,7 +92,7 @@ Para definir el tipo de contenido de un request o response, ya sea json, xml, ht
 ## Ejercicio 3: Peticiones es Postman
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
-![Petición GET](https://lh3.googleusercontent.com/jYC1UWhUHhu9548sQPGqpvrTQvIDMLhfeCrMc96aMQj7UVOSZa07F4FhiZIQlO85oXh0CytzL0NVZCQrKm1dGXLyWQ9l6bqn1ILYFeADOJrSzmA5E3DhWGK59Ekn98t94UDUTno0HHhHFhz6eKEbrMCSUJbQgIlufrgd6JK7soyiCiO3CQ_0VjGkDazEt3exZoCdTUIEW_gS4ksRg_-iNvgjCaiqbEzuIU-eW6mGztWHzkzICXGuNHMA0Qskd2tN7q2r-IUVbrccpwAAT3DEqqIQIN3aodAOkpgxjZKHsOAUP7I9-I_Pw3H8SSF8y88RM7pi3Lm1Kq0ipku4vtkj7a84m-WRUQtDqKHMVuH-hSrPw22z9lhrLcyH4LBhfFGhPTtiFw78MnrBzYqbr-P9dL6A1BEvvEOiUr9UJ5gHHJFWCW4ykjk00v1TqH5gexvIVsc3AyhThHYmPyIdCvcESNXufW5XudqFfFKLf9JzVSVw8Crp48gS4ApILM5HUNoCNLxJg7FjPLMzTpEe9oxk6d0_jsaHxcQKvuYB_At9uz0N0sZe2Me9-BlN2CNQsD4CwJ_8QOJp1zV7azmoxbrCQt554Vc90n9TNO1Efnyg2A-TVO-W8he0P2mIcJz8Ffi6-U84n0sOr75H87I4O4t7cXgp3GhdlQzSieXT-I6sZNwddyj7IEpkEZPQ8MG_C_0ygmLMFrYJiZrCGX6iVW8yeM8=w902-h517-no?authuser=3)
+
 Request POST a la URL anterior, y con body:
 {
 "name":"Tu nombre",
