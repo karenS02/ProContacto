@@ -89,7 +89,7 @@ Lo que permite al cliente enviar información adicional junto a una petición.
 
 Para definir el tipo de contenido de un request o response, ya sea json, xml, html, etc.
 
-## Ejercicio 3: Peticiones es Postman
+## Ejercicio 3: Peticiones en Postman
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
 (https://github.com/karenS02/ProContacto/tree/main/img/RequestGET.jpg?raw=true)
