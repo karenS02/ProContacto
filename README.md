@@ -92,16 +92,16 @@ Para definir el tipo de contenido de un request o response, ya sea json, xml, ht
 ## Ejercicio 3: Peticiones es Postman
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
-
+(https://github.com/karenS02/ProContacto/tree/main/img/RequestGET.jpg?raw=true)
 Request POST a la URL anterior, y con body:
 {
 "name":"Tu nombre",
 "email":tunombre.tuapellido@procontacto.com.mx
 }
-![Petición POST](https://lh3.googleusercontent.com/WhNwltivSuOKmu_G9Z6yTCHGb8G20uhy9rLrL1kqOQL-rKboOfZw4zXKe3CrnVoq_FnfEUlOSGCBJXTgOiNqfKdFrKYs0QM3hOXmUBbnVstt3c5YXNjRWGhuiOv7PPZLa2tUe1j4EEoUiT_JGZdrbhMIGVz48mnYdwXVT_z93--m2qoO4b5QCepYkW-oiyP2dFMR0QyCCv4QtaiVhy5PerjIyodNJBf4a4_trtF-cGjUwOl7fsw3EPYHZ7FdwGUJndp04SLm-U6US0xv3wra7ZfV2ki8-CAQzLPibRgZqbiAHCFIUaHjBVkSj_tMh6dQqPgZC1yOWedQja2o9SqOWcIKVwootCnkbx5U88IfW2xI0QOH1h_0BlruNnXawdppgsyzxm_6mCM2_viBSkOXaw-_dPStEw2USyUv_7yF2IJTQQH-kZ8JPZH2qv3_RTADVcYJLj7uct0jybheicA-1qN4IoGdDWzjlgaf0ibrQaut3YTwdBK4cs7DiW2FBQ2s7bjG4lN0XvzhdBb_1E_Trc4iHHppmN35ubO6eCqAjhHc00uPKlMG-aAQNv7FkjCK4qZP-wJFesBugM-eGcQJjak3RgHCBIUxJCpOpUYUPFXQ75IBoKQUqHZv-EuOkFpbTfCEuPjmNnL1b6E3z1KxBj2KhZD91IYMjyqpH_IgddEJqb9ir1oqHyDqya9wjCSFQyMJWUvDfFE8kaJX2xwnULQ=w894-h296-no?authuser=3)
+(https://github.com/karenS02/ProContacto/tree/main/img/REQUESTPOST.jpg?raw=true)
 
 Request GET a la URL: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
-![Petición GET nuevamente](https://lh3.googleusercontent.com/J1gNouj5xmOX6zHjnlCA1X3NsYVNbiaqh8AndYuZYDpyeAa79tRdyqQqanpZKg2wFNAMyiOXskQmlThghDtRV5J7CJpVrk3mHoihU-37csUHS26COU3OWB3ondV2VefHJZMMStYQGOSnAWoPcDHFA12Ov3Fi1cMnt0SCoOi2_woslHiIzGzsZPIeirwobV0l1JUtFBEqtSWRzAnUPC8LRwN-GDC-nkkyzw1VqgwZqodKlxOTy0q-Fjx2e3wF_o8IkxlXmhp87SSiCgstH4TnioBPY4oTWPc2YceS139CCbxiB-6Jqn_9gmXYjeInEJlcntpHkxeE3g7OMP7fP5YeGZ5etVURUSiGsqtYcZ7Y73P9mBZHSXy7i-sasWQfg0KnnAdJwpLdSIjjbmRNydIa1YDR7qeldjEZ6dWA3ABUWu-egV5nzWxORmY19kYfvsX1rwyJ2f6N2pVf5zqiqq9otvDl7I68PyWC7x6ms8PWDJoIFoznRueJzkn05masYgpsIt_ntQKadM_1ILLl4LtfSy4N-wq3OgozLpqACCpadaU6meFuLKhDrI4I4WEB4w5M-hEiswjabfUJTG_Z4jNjuK-WGdYvLhjTK4OZNKmeXvdz1gMIaXdciyRREJwBfCrys9KEH_h3l8Owyy1UwtIFTW9nwzclPvT-RFEAuKh1YCuvrsewiWLKdNqi3S7vg8CVhUOwAM4mdJLa27Xn66YXbcg=w913-h519-no?authuser=3)
+(https://github.com/karenS02/ProContacto/tree/main/img/REQUESTGET2.jpg?raw=true)
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 En la primera petición GET aún no eran visibles los datos enviados en la petición POST, si no hasta hacer un GET nuevamente.
